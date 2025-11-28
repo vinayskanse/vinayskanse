@@ -115,15 +115,15 @@
 
 #### Visitor count
 
-![Visitor Count](https://profile-counter.glitch.me/VinayKanase/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/vinayskanse/count.svg)
 
 [![Wakatime](https://wakatime.com/badge/user/4ce61468-20e4-42af-b17f-6508ecb79a10.svg)](https://wakatime.com/@vinayskanse)
 
-![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinayKanase&count_private=true&show_icons=true&theme=dark)
+![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayskanse&count_private=true&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinayKanase&langs_count=6&theme=dark&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayskanse&langs_count=6&theme=dark&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VinayKanase&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinayskanse&theme=dark)
 
 ---
 
