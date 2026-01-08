@@ -113,17 +113,11 @@
 
 ### 📊 My Stats
 
-#### Visitor count
-
-![Visitor Count](https://profile-counter.glitch.me/vinayskanse/count.svg)
-
-[![Wakatime](https://wakatime.com/badge/user/4ce61468-20e4-42af-b17f-6508ecb79a10.svg)](https://wakatime.com/@vinayskanse)
+[![wakatime](https://wakatime.com/badge/user/4ce61468-20e4-42af-b17f-6508ecb79a10.svg)](https://wakatime.com/@4ce61468-20e4-42af-b17f-6508ecb79a10)
 
 ![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayskanse&count_private=true&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayskanse&langs_count=6&theme=dark&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinayskanse&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vinayskanse&theme=dark&border_radius=10&background=90%2C09090B%2C141416)](https://git.io/streak-stats)
 
 ---
 
